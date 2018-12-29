@@ -13,7 +13,7 @@ console.log("Olá, eu me chamo " + nome + ", tenho " + idade + " anos e estou es
 console.log('-----------------------------------------------------------------');
 console.log("Questão 3");
 var nome = 'Rafael';
-var matricula = 201708338586;
+var matricula = 201818858823;
 var nota1 = 8;
 var nota2 = 9;
 media = (nota1 + nota2) / 2;
